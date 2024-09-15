@@ -1,4 +1,4 @@
-# K번째 수
+# 잃어버린 괄호
 https://www.acmicpc.net/problem/11399
 
 ## 문제
