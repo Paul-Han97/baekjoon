@@ -7,6 +7,7 @@ let input = fs
   .map(Number);
 
 input.shift();
+
 input.sort((a, b) => a - b);
 
 console.log(input.join("\n"));
